@@ -19,5 +19,5 @@ var reloadStyles = function(event){
 };
 
 window.onload = function(){
-  setInterval(reloadStyles, 500);
+  setInterval(reloadStyles, 15);
 };
